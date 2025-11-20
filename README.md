@@ -201,7 +201,3 @@ This repository is public only for **portfolio and recruiter evaluation purposes
 
 ---
 
-If you want, I can also create:
-✔ Screenshots for README
-✔ A professional project banner
-✔ A summary for LinkedIn “Projects” section
